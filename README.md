@@ -40,9 +40,11 @@ This project is my digital resume, showcasing my skills as a web developer. It s
   - My projects often include creative design, animations, and secure, functional systems.
   - I enjoy the challenge of learning new technologies and applying them to meet my clients' needs. 🚀
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelaven&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kelaven&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kelaven&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelaven&layout=compact&theme=dark&hide_border=true)
 
 ## 🎨 Other Interests
 
