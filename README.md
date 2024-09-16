@@ -28,10 +28,11 @@ I am looking for an apprenticeship position to continue my studies or a full-tim
 This is my favorite project because it highlights my hobby as an amateur photographer specializing in portraits and landscapes. The website features extensive front-end work, including creative design and the use of tools like GSAP for animations. On the back-end, it is built with PHP and includes a dashboard accessible to the administrator. The site supports CRUD operations, account creation, and allows users to write comments in secure galleries. <br> This project beautifully combines my passion for photography with my web development skills.
 ![Landscape Page](images/spproject.png)
 
-### [My digital resume](https://github.com/Kelaven/CV-numerique-Kevin-LAVENANT)
+### [Visual redesign and new website creation for a pizza maker](https://github.com/Kelaven/pizzaflo)
 
-This project is my digital resume, showcasing my skills as a web developer. It serves as a comprehensive introduction to potential employers, detailing my background, education, skills, and experience.
-![My experiences](images/cv.png)
+In this project, I revamped an artisan’s outdated website, starting from a Figma mockup to defining the brand identity, including the logo and my corporate photographies, before delivering a fully operational deployment. I worked in API mode, optimized performance, and utilized JavaScript with Vite to create modern and efficient scripts.
+This project allowed me to demonstrate my skills in both design and technical development, enhancing user experience and site responsiveness.
+![Heroe section](images/pizzaflo.png)
 
 ## 💼 Professional Experience
 
