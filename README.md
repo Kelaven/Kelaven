@@ -49,7 +49,7 @@ This project allowed me to demonstrate my skills in both design and technical de
 
 ## 🎨 Other Interests
 
-When I'm not coding, I enjoy taking portraits and landscape photographs. It is also important for me to stay active, so I regularly participate in 10km races. 🏃
+When I’m not coding, I enjoy taking portraits and landscape photographs. Staying active is important to me, so I regularly participate in 10km races and also enjoy rock climbing. 🧗‍♂️🏃
 
 ---
 
