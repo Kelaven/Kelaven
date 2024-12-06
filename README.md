@@ -22,7 +22,7 @@ I am looking for an apprenticeship position to continue my studies or a full-tim
 | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)                | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)                        | ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)                                 |
 | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) | ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)      | ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
 
-## 🌟 Key Projects
+## 🌟 Key Project
 
 ### [My Portfolio - kevin-lavenant.fr](https://kevin-lavenant.fr)
 
