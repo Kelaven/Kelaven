@@ -9,6 +9,8 @@ Focused on growth and real progress.
 
 #Symfony #WebDev #CareerGrowth #NightCoder
 
+<br>
+
 ## 🚀 Skills
 
 | **Frontend**                                                                                                      | **Frameworks & Libraries**                                                                          | **Backend & CMS**                                                                                      |
@@ -23,6 +25,8 @@ Focused on growth and real progress.
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)                   | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) | ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white) |
 | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) | ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) | ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)                  |
+
+<br>
 
 ---
 
