@@ -8,7 +8,6 @@
 Focused on growth and real progress.
 
 #Symfony #WebDev #CareerGrowth #NightCoder
-
 <br>
 
 ## 🚀 Skills
