@@ -7,7 +7,7 @@
 
 Focused on growth and real progress.
 
-#Symfony #WebDev #CareerGrowth #NightCoder
+#Symfony #React #WebDev #CareerGrowth #NightCoder
 <br>
 
 ## 🚀 Skills
