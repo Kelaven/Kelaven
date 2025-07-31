@@ -3,7 +3,7 @@
 💼 Over 10 years in sales  
 💻 Web developer since 2024, always coding after hours  
 🛠 Currently working on a Symfony personnal project  
-📈 Also passionate about stock trading, bouldering, bike commuting, and Xbox gaming
+📈 Also passionate about taking portrait & landscape photographies, stock trading, bouldering and Xbox gaming
 
 Focused on growth and real progress.
 
